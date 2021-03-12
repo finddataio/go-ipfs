@@ -13,7 +13,7 @@ require (
 	github.com/gabriel-vasile/mimetype v1.1.2
 	github.com/go-bindata/go-bindata/v3 v3.1.3
 	github.com/gogo/protobuf v1.3.2
-	github.com/hashicorp/go-multierror v1.1.0
+	github.com/hashicorp/go-multierror v1.1.1
 	github.com/hashicorp/golang-lru v0.5.4
 	github.com/ipfs/go-bitswap v0.3.3
 	github.com/ipfs/go-block-format v0.0.3
